@@ -25,8 +25,7 @@
 
 <h3 align="left">- Languages: C, Bash  <br>- Tools: Git, GCC, Makefile, VS Code  <br>- OS: Linux (Debian-based)</h3><br>
  
-<h3 align="center" 🔧 Tech Stack (C-style)</h3><br>
-<p align = "center" 
+<h3 align="left"> 🔧 Tech Stack (C-style)</h3><br>
 const char *languages[]  = {"C", "Python", "Java", "PHP"};<br>
 const char *web[]        = {"HTML", "CSS"};<br>
 const char *framework[]  = {"Laravel"};<br>
