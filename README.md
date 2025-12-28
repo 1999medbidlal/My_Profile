@@ -5,7 +5,7 @@
 
 <br clear="both">
 
-<h3 align="left">💻 Software Developer | C Programming | Linux | Architecte en Technologies du Numérique</h3>
+<h3 align="center">💻 Software Developer | C Programming | Linux | Architecte en Technologies du Numérique</h3>
 
 ###
 
@@ -25,7 +25,8 @@
 
 <h3 align="left">- Languages: C, Bash  <br>- Tools: Git, GCC, Makefile, VS Code  <br>- OS: Linux (Debian-based)</h3><br>
  
-
+<h3 align="center" 🔧 Tech Stack (C-style)</h3><br>
+<p align = "center" 
 const char *languages[]  = {"C", "Python", "Java", "PHP"};<br>
 const char *web[]        = {"HTML", "CSS"};<br>
 const char *framework[]  = {"Laravel"};<br>
@@ -36,7 +37,8 @@ const char *platforms[]  = {"Linux", "Windows"};<br>
 int main(void)<br>
 {<br>
     return 42; // keep learning<br>
-}<br>
+}
+</p><br>
 
 ###
 
@@ -44,7 +46,7 @@ int main(void)<br>
 ###
 ## 🧠 Tech Stack
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -112,10 +114,10 @@ int main(void)<br>
 </p>
 
 ---
-
+<div>
+    <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  </div>
 <p align="center">
   🚀 Always learning • Always building • Always improving
 </p>
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+  
