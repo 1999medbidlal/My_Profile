@@ -5,7 +5,7 @@
 
 <br clear="both">
 
-<h3 align="center">💻 Software Developer | C Programming | Linux | Architecte en Technologies du Numérique</h3>
+<h3 align="center">💻 Software Developer | C Programming | Linux | Digital Technologies Architect </h3>
 
 ###
 
